@@ -1,0 +1,31 @@
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\x64\Debug\Trabajo Final.vcxprojAssemblyReference.cache
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.Ajustes.resources
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.FormJuego.resources
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.FormularioCreditos.resources
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.FormularioPresentacion.resources
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.Niveles.resources
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\x64\Debug\Trabajo Final.vcxproj.GenerateResource.cache
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.Instrucciones.resources
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.FormYouLose.resources
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.FormYouWin.resources
+C:\Users\User\Desktop\JesiRut\Segundo Ciclo\Programación 2\Trabajo Final\Trabajo Final\x64\Debug\Trabajo Final.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\JesiRut\Segundo Ciclo\Programación 2\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.Ajustes.resources
+C:\Users\User\Desktop\JesiRut\Segundo Ciclo\Programación 2\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.FormJuego.resources
+C:\Users\User\Desktop\JesiRut\Segundo Ciclo\Programación 2\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.FormularioCreditos.resources
+C:\Users\User\Desktop\JesiRut\Segundo Ciclo\Programación 2\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.FormularioPresentacion.resources
+C:\Users\User\Desktop\JesiRut\Segundo Ciclo\Programación 2\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.FormYouLose.resources
+C:\Users\User\Desktop\JesiRut\Segundo Ciclo\Programación 2\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.FormYouWin.resources
+C:\Users\User\Desktop\JesiRut\Segundo Ciclo\Programación 2\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.Instrucciones.resources
+C:\Users\User\Desktop\JesiRut\Segundo Ciclo\Programación 2\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.Niveles.resources
+C:\Users\User\Desktop\JesiRut\Segundo Ciclo\Programación 2\Trabajo Final\Trabajo Final\x64\Debug\Trabajo Final.vcxproj.GenerateResource.cache
+C:\Users\PC\Documents\respaldo\JesiRut\Segundo Ciclo\Programación 2\Trabajo Final\Trabajo Final\x64\Debug\Trabajo Final.vcxproj.AssemblyReference.cache
+C:\Users\PC\Documents\respaldo\JesiRut\Segundo Ciclo\Programación 2\Trabajo Final\Trabajo Final\x64\Debug\Trabajo Final.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\respaldo\JesiRut\Segundo Ciclo\Programación 2\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.Ajustes.resources
+C:\Users\PC\Documents\respaldo\JesiRut\Segundo Ciclo\Programación 2\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.FormJuego.resources
+C:\Users\PC\Documents\respaldo\JesiRut\Segundo Ciclo\Programación 2\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.FormularioCreditos.resources
+C:\Users\PC\Documents\respaldo\JesiRut\Segundo Ciclo\Programación 2\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.FormularioPresentacion.resources
+C:\Users\PC\Documents\respaldo\JesiRut\Segundo Ciclo\Programación 2\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.FormYouLose.resources
+C:\Users\PC\Documents\respaldo\JesiRut\Segundo Ciclo\Programación 2\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.FormYouWin.resources
+C:\Users\PC\Documents\respaldo\JesiRut\Segundo Ciclo\Programación 2\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.Instrucciones.resources
+C:\Users\PC\Documents\respaldo\JesiRut\Segundo Ciclo\Programación 2\Trabajo Final\Trabajo Final\x64\Debug\TrabajoFinal.Niveles.resources
+C:\Users\PC\Documents\respaldo\JesiRut\Segundo Ciclo\Programación 2\Trabajo Final\Trabajo Final\x64\Debug\Trabajo Final.vcxproj.GenerateResource.cache

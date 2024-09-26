@@ -1,0 +1,7 @@
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\Debug\Trabajo Final.vcxprojAssemblyReference.cache
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\Debug\TrabajoFinal.Ajustes.resources
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\Debug\TrabajoFinal.FormJuego.resources
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\Debug\TrabajoFinal.FormularioCreditos.resources
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\Debug\TrabajoFinal.FormularioPresentacion.resources
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\Debug\TrabajoFinal.Niveles.resources
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\Debug\Trabajo Final.vcxproj.GenerateResource.cache

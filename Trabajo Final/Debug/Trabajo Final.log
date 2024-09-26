@@ -1,0 +1,123 @@
+﻿  Ajustes.cpp
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\MenuAnimado.h(26,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\MenuAnimado.h(26,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(28,54): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(28,42): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(33,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(34,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(35,70): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(35,58): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(28,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(35,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(51,22): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(56,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(59,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(67,22): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(73,13): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(76,13): warning C4018: '>=': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(88,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(91,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(104,23): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(111,23): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(117,23): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(126,22): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(127,23): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(155,22): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(158,119): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(158,97): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(168,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(170,22): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(182,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\FormJuego.h(22,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  FormJuego.cpp
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(28,54): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(28,42): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(33,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(34,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(35,70): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(35,58): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(28,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(35,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(51,22): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(56,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(59,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(67,22): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(73,13): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(76,13): warning C4018: '>=': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(88,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(91,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(104,23): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(111,23): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(117,23): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(126,22): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(127,23): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(155,22): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(158,119): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(158,97): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(168,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(170,22): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(182,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\FormJuego.h(22,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  FormularioPresentacion.cpp
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\MenuAnimado.h(26,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\MenuAnimado.h(26,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(28,54): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(28,42): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(33,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(34,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(35,70): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(35,58): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(28,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(35,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(51,22): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(56,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(59,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(67,22): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(73,13): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(76,13): warning C4018: '>=': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(88,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(91,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(104,23): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(111,23): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(117,23): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(126,22): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(127,23): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(155,22): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(158,119): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(158,97): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(168,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(170,22): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(182,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\FormJuego.h(22,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Niveles.cpp
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(28,54): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(28,42): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(33,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(34,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(35,70): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CPersonaje.h(35,58): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(28,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(35,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(51,22): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(56,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(59,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(67,22): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(73,13): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(76,13): warning C4018: '>=': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(88,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(91,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(104,23): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(111,23): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(117,23): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(126,22): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(127,23): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(155,22): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(158,119): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(158,97): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(168,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(170,22): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\CControlador.h(182,21): warning C4018: '<': no coinciden signed/unsigned
+E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Trabajo Final\FormJuego.h(22,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  Ajustes.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Trabajo Final.vcxproj -> E:\UPC\Ciclo 2\Programacion 2\TrabajoFinalGrupo9\Trabajo Final\Debug\Trabajo Final.exe
